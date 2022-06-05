@@ -13,3 +13,8 @@ Since Thomas High School is listed as a charter school the district summary woul
 
 ## Summary
 The most notable changes were the number of students counted at Thomas High School (1), the number of total students (2), the percentages of math and reading at Thomas High School (3), and the average math and reading scores(4). Removing the 9th grade reading and math scores lowered the number of students for Thomas High School and the number of students overall. The less number of students resulted in a change in the average scores and score percentages.
+
+Despite the omission for charter school Thomas High School, charter schools overall still outrank district type schools across the analyzed categories.
+### Sceenshot of rankings: Charter vs District
+![image](https://user-images.githubusercontent.com/105116310/172054860-987ba93b-47c7-4cc7-8b00-82f7a80ae1c9.png)
+![image](https://user-images.githubusercontent.com/105116310/172054879-ce6c837b-9f0f-48d1-b4e4-d3a6d65c7d8d.png)
