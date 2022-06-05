@@ -5,7 +5,7 @@ The homework is to showcase our ability to use pandas by changing altered readin
 ## Results
 Since Thomas High School is listed as a charter school the district summary would not be affected. However, in the overall school summary Thomas High School losses some ground in its % of overall passing (90.630 vs 90.948) due to the removal (NaN) to its 9th grade reading and math scores. 
 
-### Screennshot of 9th grade NaNs
+### Screenshot of 9th grade NaNs
 ![image](https://user-images.githubusercontent.com/105116310/172054078-17d27dff-a502-4c3f-b766-92fa24fbe30f.png)
 ### Screenshot of school summary
 ![image](https://user-images.githubusercontent.com/105116310/172054142-70410d79-57d5-4d46-b425-4bfb65b283d5.png)
